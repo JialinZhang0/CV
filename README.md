@@ -33,4 +33,4 @@ Vector Analysis code is [here](https://github.com/JialinZhang0/Recommendation-Sy
 Collaborating Filtering and Recommendation code is [here](https://github.com/JialinZhang0/Recommendation-System/blob/60e2156c51e239b4884c2a4fcddc51e059e1596d/recommmendation-system.py)
 
 ## Pulmonary Drug Delivery System Reveiw
-The report is [here](https://github.com/JialinZhang0/CV/blob/396b59a3dc4f762338fd64391d4fb2190bc99f57/Pulmonary%20Drug%20Delievery%20System.pdf)
+The Paper is [here](https://github.com/JialinZhang0/CV/blob/396b59a3dc4f762338fd64391d4fb2190bc99f57/Pulmonary%20Drug%20Delievery%20System.pdf)
