@@ -4,7 +4,7 @@ my CV [link](https://github.com/JialinZhang0/CV/blob/main/Jialin%20ZHANG%20RESUM
 
 # Projects
 
-##Model_Implementation
+## Model_Implementation
 
 The paper is [here](https://github.com/JialinZhang0/Model_Implementation/blob/main/Model_Implementation_of_Cholesterol_Biosynthesis.pdf)
 
